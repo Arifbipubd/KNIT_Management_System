@@ -214,6 +214,7 @@ body {
 .sidebar-hide .sidebar.sidebar-hide-to-small, .sidebar-hide .sidebar.sidebar-hide-to-small .nano, .sidebar-hide .sidebar.sidebar-hide-to-small .nano-content {
     overflow: visible;
     /*background: #fff;*/
+    min-height: 100vh;
 }
 
 .sidebar-hide .sidebar.sidebar-hide-to-small .nano-content>ul {
